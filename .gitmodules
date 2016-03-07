@@ -1,0 +1,3 @@
+[submodule "Nessie-JavaScript-Wrapper"]
+	path = Nessie-JavaScript-Wrapper
+	url = ./Nessie-JavaScript-Wrapper
